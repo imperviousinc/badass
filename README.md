@@ -1,10 +1,8 @@
-# Eth Registrar
+# .badass Registrar
 
-[![Build Status](https://travis-ci.com/ensdomains/ethregistrar.svg?branch=master)](https://travis-ci.com/ensdomains/ethregistrar) [![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](LICENSE)
+Implements an [ENS](https://ens.domains/) registrar intended for the .badass TLD on [Handshake](https://handshake.org)
 
-Implements an [ENS](https://ens.domains/) registrar intended for the .eth TLD.
-
-These contracts were audited by ConsenSys dilligence; the audit report is available [here](https://github.com/ConsenSys/ens-audit-report-2019-02).
+The ENS contracts were audited by ConsenSys dilligence; the audit report is available [here](https://github.com/ConsenSys/ens-audit-report-2019-02).
 
 ## Contracts
 
